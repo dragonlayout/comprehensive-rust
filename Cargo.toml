@@ -1,0 +1,13 @@
+[workspace]
+
+members = [
+    "simple_example",
+    "references",
+    "dangling_references",
+    "slices",
+    "string_vs_str",
+    "function",
+    "method",
+    "function_overloading",
+    "implict_conversion",
+]
