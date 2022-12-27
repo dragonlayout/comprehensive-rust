@@ -3,6 +3,10 @@
 version = 3
 
 [[package]]
+name = "arrays_and_for_loops"
+version = "0.1.0"
+
+[[package]]
 name = "dangling_references"
 version = "0.1.0"
 
@@ -16,6 +20,10 @@ version = "0.1.0"
 
 [[package]]
 name = "implict_conversion"
+version = "0.1.0"
+
+[[package]]
+name = "library"
 version = "0.1.0"
 
 [[package]]
